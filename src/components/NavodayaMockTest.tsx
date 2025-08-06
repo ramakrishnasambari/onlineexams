@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Clock, CheckCircle, XCircle } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
-import { navodayaMockTestData, TestData } from '../data/navodayaMockTest';
+import { navodayaMockTestData, TestData, Question } from '../data/navodayaMockTest';
 
 
 
