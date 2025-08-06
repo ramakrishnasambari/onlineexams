@@ -40,7 +40,7 @@ const NavodayaMockTest: React.FC = () => {
   const [showSubmitAlert, setShowSubmitAlert] = useState(false);
 
   useEffect(() => {
-    fetch('./navodaya/mocktest.json')
+    fetch(`${process.env.PUBLIC_URL}/navodaya/mocktest.json`)
       .then(response => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
@@ -359,7 +359,7 @@ const NavodayaMockTest: React.FC = () => {
                   {currentQuestionData.questiontype === 'img' ? (
                     <div className="text-center">
                                              <img
-                         src={`./navodaya/${currentQuestionData.question}`}
+                         src={`${process.env.PUBLIC_URL}/navodaya/${currentQuestionData.question}`}
                          alt={`Question ${currentQuestionData.number}`}
                          className="max-w-full h-auto mx-auto border rounded-lg shadow-sm"
                          style={{ maxHeight: '400px' }}
