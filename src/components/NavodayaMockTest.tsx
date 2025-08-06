@@ -40,8 +40,13 @@ const NavodayaMockTest: React.FC = () => {
   const [showSubmitAlert, setShowSubmitAlert] = useState(false);
 
   useEffect(() => {
-    fetch('/navodaya/mocktest.json')
-      .then(response => response.json())
+    fetch('./navodaya/mocktest.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
       .then(data => setTestData(data))
       .catch(error => console.error('Error loading test data:', error));
   }, []);
@@ -353,12 +358,12 @@ const NavodayaMockTest: React.FC = () => {
                 <div className="mb-6">
                   {currentQuestionData.questiontype === 'img' ? (
                     <div className="text-center">
-                      <img
-                        src={`/navodaya/${currentQuestionData.question}`}
-                        alt={`Question ${currentQuestionData.number}`}
-                        className="max-w-full h-auto mx-auto border rounded-lg shadow-sm"
-                        style={{ maxHeight: '400px' }}
-                      />
+                                             <img
+                         src={`./navodaya/${currentQuestionData.question}`}
+                         alt={`Question ${currentQuestionData.number}`}
+                         className="max-w-full h-auto mx-auto border rounded-lg shadow-sm"
+                         style={{ maxHeight: '400px' }}
+                       />
                     </div>
                   ) : (
                     <div className="text-lg text-gray-800 leading-relaxed">
