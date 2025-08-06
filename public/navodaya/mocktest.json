@@ -1,0 +1,757 @@
+{
+	"questions": [
+	  {
+		"section": "SECTION–1: MENTAL ABILITY TEST",
+		"description":"NA",
+		"parts": [
+		  {
+			"part": "PART–I",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 1,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 2,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 3,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 4,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–II",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 5,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 6,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 7,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 8,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–III",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 9,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 10,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 11,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 12,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–IV",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 13,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 14,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 15,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 16,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–V",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 17,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 18,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 19,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 20,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–VI",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 21,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 22,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 23,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 24,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–VII",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 25,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 26,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 27,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 28,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–VIII",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 29,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 30,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 31,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 32,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–IX",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 33,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 34,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 35,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 36,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PART–X",
+			"description": "DIRECTIONS: In Question Nos. 1 to 4, four figures (A), (B), (C) and (D) have been given in each question. Of these four figures, three figures are similar in some way and one figure is different. Select the figure which is different. Darken the circle for the answer in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number": 37,
+				"question": "1.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 38,
+				"question": "2.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 39,
+				"question": "3.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 40,
+				"question": "4.png",
+				"questiontype": "img",
+				"options": { "A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"section": "SECTION–2: ARITHMETIC TEST",
+		"description":"NA",
+		"parts": [
+		  {
+			"part": "NA",
+			"description": "DIRECTIONS: For every question, four probable answers as (A), (B), (C) and (D) are given. Only one out of these is correct. Choose the correct answer and darken the circle in the OMR Answer Sheet against the number corresponding to the question.",
+			"questionList": [
+			  {
+				"number" : 41,
+				"question": "A group of 80 students went on a picnic. 20% of the students are girls and rest are boys. How many girls should replace the boys so as to make the boys as 70%?",
+				"questiontype": "txt",
+				"options": {"A":16, "B":24, "C":12, "D":18},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 42,
+				"question": " A 1250 m long train covers a distance of 1 km in 2 minutes. It crosses another stationary train in 4 minutes. The length of the stationary train is:",
+				"questiontype": "txt",
+				"options": {"A":"1250 m", "B":"500 m", "C":"750 m", "D":"1000 m"},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 43,
+				"question": "Rahim got 10 marks more than Dinesh. George got 25 marks less than Rahim. The total marks of all the three are 235. The marks of George are:",
+				"questiontype": "txt",
+				"options": {"A":80, "B":65, "C":90, "D":75},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 44,
+				"question": "On simplification of \n 10×10+[400÷{100−(50−3×10)}], we get:",
+				"questiontype": "txt",
+				"options": {"A":265, "B":65, "C":310, "D":105},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 45,
+				"question": "A group of 80 students went on a picnic. 20% of the students are girls and rest are boys. How many girls should replace the boys so as to make the boys as 70%?",
+				"questiontype": "txt",
+				"options": {"A":16, "B":24, "C":12, "D":18},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 46,
+				"question": " A 1250 m long train covers a distance of 1 km in 2 minutes. It crosses another stationary train in 4 minutes. The length of the stationary train is:",
+				"questiontype": "txt",
+				"options": {"A":"1250 m", "B":"500 m", "C":"750 m", "D":"1000 m"},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 47,
+				"question": "Rahim got 10 marks more than Dinesh. George got 25 marks less than Rahim. The total marks of all the three are 235. The marks of George are:",
+				"questiontype": "txt",
+				"options": {"A":80, "B":65, "C":90, "D":75},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 48,
+				"question": "On simplification of \n 10×10+[400÷{100−(50−3×10)}], we get:",
+				"questiontype": "txt",
+				"options": {"A":265, "B":65, "C":310, "D":105},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 49,
+				"question": "A group of 80 students went on a picnic. 20% of the students are girls and rest are boys. How many girls should replace the boys so as to make the boys as 70%?",
+				"questiontype": "txt",
+				"options": {"A":16, "B":24, "C":12, "D":18},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 50,
+				"question": " A 1250 m long train covers a distance of 1 km in 2 minutes. It crosses another stationary train in 4 minutes. The length of the stationary train is:",
+				"questiontype": "txt",
+				"options": {"A":"1250 m", "B":"500 m", "C":"750 m", "D":"1000 m"},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 51,
+				"question": "Rahim got 10 marks more than Dinesh. George got 25 marks less than Rahim. The total marks of all the three are 235. The marks of George are:",
+				"questiontype": "txt",
+				"options": {"A":80, "B":65, "C":90, "D":75},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 52,
+				"question": "On simplification of \n 10×10+[400÷{100−(50−3×10)}], we get:",
+				"questiontype": "txt",
+				"options": {"A":265, "B":65, "C":310, "D":105},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 53,
+				"question": "A group of 80 students went on a picnic. 20% of the students are girls and rest are boys. How many girls should replace the boys so as to make the boys as 70%?",
+				"questiontype": "txt",
+				"options": {"A":16, "B":24, "C":12, "D":18},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 54,
+				"question": " A 1250 m long train covers a distance of 1 km in 2 minutes. It crosses another stationary train in 4 minutes. The length of the stationary train is:",
+				"questiontype": "txt",
+				"options": {"A":"1250 m", "B":"500 m", "C":"750 m", "D":"1000 m"},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 55,
+				"question": "Rahim got 10 marks more than Dinesh. George got 25 marks less than Rahim. The total marks of all the three are 235. The marks of George are:",
+				"questiontype": "txt",
+				"options": {"A":80, "B":65, "C":90, "D":75},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 56,
+				"question": "On simplification of \n 10×10+[400÷{100−(50−3×10)}], we get:",
+				"questiontype": "txt",
+				"options": {"A":265, "B":65, "C":310, "D":105},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 57,
+				"question": "A group of 80 students went on a picnic. 20% of the students are girls and rest are boys. How many girls should replace the boys so as to make the boys as 70%?",
+				"questiontype": "txt",
+				"options": {"A":16, "B":24, "C":12, "D":18},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 58,
+				"question": " A 1250 m long train covers a distance of 1 km in 2 minutes. It crosses another stationary train in 4 minutes. The length of the stationary train is:",
+				"questiontype": "txt",
+				"options": {"A":"1250 m", "B":"500 m", "C":"750 m", "D":"1000 m"},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 59,
+				"question": "Rahim got 10 marks more than Dinesh. George got 25 marks less than Rahim. The total marks of all the three are 235. The marks of George are:",
+				"questiontype": "txt",
+				"options": {"A":80, "B":65, "C":90, "D":75},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number" : 60,
+				"question": "On simplification of \n 10×10+[400÷{100−(50−3×10)}], we get:",
+				"questiontype": "txt",
+				"options": {"A":265, "B":65, "C":310, "D":105},
+				"correctanswer": "A",
+				"studentanswer": ""
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"section": "SECTION–3: LANGUAGE TEST",
+		"description": "DIRECTIONS: There are four passages in this section. Each passage is followed by five questions. Read each passage carefully and answer the questions that follow. For each question, four probable answers as (A), (B), (C) and (D) are given. Only one out of these is correct. Choose the correct answer and darken the circle in the OMR Answer Sheet against the number corresponding to the question.",
+		"parts": [
+		  {
+			"part": "PASSAGE-I",
+			"description": "A volcano is a burning mountain with a great hole running deep into the earth. The mouth of the opening is called the ‘crater’ of the volcano. Sometimes a volcano may remain quiet for centuries and then suddenly become active. This is called a ‘volcanic eruption’, and great clouds of ash, dust, gas and steam rise from the crater accompanied by a loud noise. After sometime, hot molten rock, called lava, begins to flow down the mountain. This may continue for many days or weeks. Then the volcano will ‘go to sleep’ again, or remain ‘dormant’ for many years. Most volcanoes are found near the sea, leading to formation of islands.",
+			"questionList": [
+			  {
+				"number": 61,
+				"story":"",
+				"question": "What is not true about a volcano?",
+				"questiontype": "txt",
+				"options": { "A": "It is like big forest fires.", "B": "It gives out ash, dust and lava.", "C": "It is found mostly near the sea.", 				"D": "It creates a great hole deep into the earth." },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 62,
+				"question": "When a volcano erupts, it is said to be ______.",
+				"questiontype": "txt",
+				"options": { "A": "dormant", "B": "sleeping", "C": "active", "D": "quiet" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 63,
+				"question": "The lava that flows down the mountain is in ______ state.",
+				"questiontype": "txt",
+				"options": { "A": "solid", "B": "liquid", "C": "vapour", "D": "gaseous" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 64,
+				"question": "The antonym of ‘quiet’ here is ______.",
+				"questiontype": "txt",
+				"options": { "A": "calm", "B": "serene", "C": "still", "D": "active" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 65,
+				"question": "‘Accompanied’ as used in the passage, means ______.",
+				"questiontype": "txt",
+				"options": { "A": "alongwith", "B": "followed by", "C": "happened", "D": "continued" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PASSAGE-II",
+			"description": "A volcano is a burning mountain with a great hole running deep into the earth. The mouth of the opening is called the ‘crater’ of the volcano. Sometimes a volcano may remain quiet for centuries and then suddenly become active. This is called a ‘volcanic eruption’, and great clouds of ash, dust, gas and steam rise from the crater accompanied by a loud noise. After sometime, hot molten rock, called lava, begins to flow down the mountain. This may continue for many days or weeks. Then the volcano will ‘go to sleep’ again, or remain ‘dormant’ for many years. Most volcanoes are found near the sea, leading to formation of islands.",
+			"questionList": [
+			  {
+				"number": 66,
+				"story":"",
+				"question": "What is not true about a volcano?",
+				"questiontype": "txt",
+				"options": { "A": "It is like big forest fires.", "B": "It gives out ash, dust and lava.", "C": "It is found mostly near the sea.", 				"D": "It creates a great hole deep into the earth." },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 67,
+				"question": "When a volcano erupts, it is said to be ______.",
+				"questiontype": "txt",
+				"options": { "A": "dormant", "B": "sleeping", "C": "active", "D": "quiet" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 68,
+				"question": "The lava that flows down the mountain is in ______ state.",
+				"questiontype": "txt",
+				"options": { "A": "solid", "B": "liquid", "C": "vapour", "D": "gaseous" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 69,
+				"question": "The antonym of ‘quiet’ here is ______.",
+				"questiontype": "txt",
+				"options": { "A": "calm", "B": "serene", "C": "still", "D": "active" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 70,
+				"question": "‘Accompanied’ as used in the passage, means ______.",
+				"questiontype": "txt",
+				"options": { "A": "alongwith", "B": "followed by", "C": "happened", "D": "continued" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PASSAGE-III",
+			"description": "A volcano is a burning mountain with a great hole running deep into the earth. The mouth of the opening is called the ‘crater’ of the volcano. Sometimes a volcano may remain quiet for centuries and then suddenly become active. This is called a ‘volcanic eruption’, and great clouds of ash, dust, gas and steam rise from the crater accompanied by a loud noise. After sometime, hot molten rock, called lava, begins to flow down the mountain. This may continue for many days or weeks. Then the volcano will ‘go to sleep’ again, or remain ‘dormant’ for many years. Most volcanoes are found near the sea, leading to formation of islands.",
+			"questionList": [
+			  {
+				"number": 71,
+				"story":"",
+				"question": "What is not true about a volcano?",
+				"questiontype": "txt",
+				"options": { "A": "It is like big forest fires.", "B": "It gives out ash, dust and lava.", "C": "It is found mostly near the sea.", 				"D": "It creates a great hole deep into the earth." },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 72,
+				"question": "When a volcano erupts, it is said to be ______.",
+				"questiontype": "txt",
+				"options": { "A": "dormant", "B": "sleeping", "C": "active", "D": "quiet" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 73,
+				"question": "The lava that flows down the mountain is in ______ state.",
+				"questiontype": "txt",
+				"options": { "A": "solid", "B": "liquid", "C": "vapour", "D": "gaseous" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 74,
+				"question": "The antonym of ‘quiet’ here is ______.",
+				"questiontype": "txt",
+				"options": { "A": "calm", "B": "serene", "C": "still", "D": "active" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 75,
+				"question": "‘Accompanied’ as used in the passage, means ______.",
+				"questiontype": "txt",
+				"options": { "A": "alongwith", "B": "followed by", "C": "happened", "D": "continued" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  },
+		  {
+			"part": "PASSAGE-IV",
+			"description": "A volcano is a burning mountain with a great hole running deep into the earth. The mouth of the opening is called the ‘crater’ of the volcano. Sometimes a volcano may remain quiet for centuries and then suddenly become active. This is called a ‘volcanic eruption’, and great clouds of ash, dust, gas and steam rise from the crater accompanied by a loud noise. After sometime, hot molten rock, called lava, begins to flow down the mountain. This may continue for many days or weeks. Then the volcano will ‘go to sleep’ again, or remain ‘dormant’ for many years. Most volcanoes are found near the sea, leading to formation of islands.",
+			"questionList": [
+			  {
+				"number": 76,
+				"story":"",
+				"question": "What is not true about a volcano?",
+				"questiontype": "txt",
+				"options": { "A": "It is like big forest fires.", "B": "It gives out ash, dust and lava.", "C": "It is found mostly near the sea.", 				"D": "It creates a great hole deep into the earth." },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 77,
+				"question": "When a volcano erupts, it is said to be ______.",
+				"questiontype": "txt",
+				"options": { "A": "dormant", "B": "sleeping", "C": "active", "D": "quiet" },
+				"correctanswer": "C",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 78,
+				"question": "The lava that flows down the mountain is in ______ state.",
+				"questiontype": "txt",
+				"options": { "A": "solid", "B": "liquid", "C": "vapour", "D": "gaseous" },
+				"correctanswer": "A",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 79,
+				"question": "The antonym of ‘quiet’ here is ______.",
+				"questiontype": "txt",
+				"options": { "A": "calm", "B": "serene", "C": "still", "D": "active" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  },
+			  {
+				"number": 80,
+				"question": "‘Accompanied’ as used in the passage, means ______.",
+				"questiontype": "txt",
+				"options": { "A": "alongwith", "B": "followed by", "C": "happened", "D": "continued" },
+				"correctanswer": "D",
+				"studentanswer": ""
+			  }
+			]
+		  }
+		]
+	  }
+	]
+  }
+  
