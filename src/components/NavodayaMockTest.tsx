@@ -1,35 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Clock, CheckCircle, XCircle } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import { navodayaMockTestData, TestData } from '../data/navodayaMockTest';
 
-interface Question {
-  number: number;
-  question: string;
-  questiontype: 'img' | 'txt';
-  options: { [key: string]: string | number };
-  correctanswer: string;
-  studentanswer: string;
-}
 
-interface Part {
-  part: string;
-  description: string;
-  questionList: Question[];
-}
-
-interface Section {
-  section: string;
-  description: string;
-  parts: Part[];
-}
-
-interface TestData {
-  questions: Section[];
-}
 
 const NavodayaMockTest: React.FC = () => {
   const navigate = useNavigate();
-  const [testData, setTestData] = useState<TestData | null>(null);
+  const [testData, setTestData] = useState<TestData | null>(navodayaMockTestData);
   const [currentSection, setCurrentSection] = useState(0);
   const [currentPart, setCurrentPart] = useState(0);
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -39,17 +17,7 @@ const NavodayaMockTest: React.FC = () => {
   const [showResults, setShowResults] = useState(false);
   const [showSubmitAlert, setShowSubmitAlert] = useState(false);
 
-  useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/navodaya/mocktest.json`)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        return response.json();
-      })
-      .then(data => setTestData(data))
-      .catch(error => console.error('Error loading test data:', error));
-  }, []);
+
 
   useEffect(() => {
     if (timeLeft > 0 && !isTestComplete) {
@@ -363,6 +331,10 @@ const NavodayaMockTest: React.FC = () => {
                          alt={`Question ${currentQuestionData.number}`}
                          className="max-w-full h-auto mx-auto border rounded-lg shadow-sm"
                          style={{ maxHeight: '400px' }}
+                         onError={(e) => {
+                           console.error(`Failed to load image: ${currentQuestionData.question}`);
+                           e.currentTarget.style.display = 'none';
+                         }}
                        />
                     </div>
                   ) : (
